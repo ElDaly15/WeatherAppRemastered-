@@ -1,16 +1,19 @@
-# weather_app
+## Weather App Remastered  
+**Duration**: 07/2024 – 08/2024  
+**Technologies**: Flutter, Bloc Architecture, Dart, RESTful APIs  
 
-A new Flutter project.
+### Introduction
+The Weather App Remastered is a redeveloped mobile app that provides real-time weather updates, detailed forecasts, and interactive maps with improved performance and user experience.
 
-## Getting Started
+### Features
+- Modern, sleek user interface for enhanced user engagement.
+- Real-time weather updates and detailed forecasts.
+- Cross-platform compatibility (iOS and Android).
+- Utilizes Bloc architecture for efficient state management and responsive UI.
+- Responsive animations for smooth transitions and user interactions.
+- Optimized app performance with faster load times and data processing.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+Feel free to fork the project and submit pull requests. All contributions are welcome!
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
